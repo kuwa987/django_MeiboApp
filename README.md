@@ -1,1 +1,2 @@
 # django_MeiboApp
+djangoチュートリアルの名簿管理アプリケーションです
